@@ -1,7 +1,7 @@
 <template>
   <div class="svg-icon-block">
   
-    <fa :icon="['fas', 'times']" :class="{'svg-icon-close': buttonType === 'close', 'svg-icon-delete': buttonType === 'delete'}" />
+    
   </div>
 </template>
 
