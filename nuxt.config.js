@@ -71,13 +71,7 @@ module.exports = {
     ],
   },
   
-  fontawesome: {
-	component: 'fa',
-    icons: {
-      solid: true,
-	  regular: false
-    }
-  },
+ 
 
   webfontloader: {
     events: false,
